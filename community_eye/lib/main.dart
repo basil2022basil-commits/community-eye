@@ -19,8 +19,8 @@ class CommunityEyeApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'CommunityEye',
       debugShowCheckedModeBanner: false,
+      title: 'CommunityEye',
       theme: ThemeData(
         colorSchemeSeed: Colors.blue,
         useMaterial3: true,
